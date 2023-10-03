@@ -10,8 +10,9 @@ School Data <br>
 ![](screenshots/school_data.png)<br>
 
 <h3>Data Cleaning and Aggregation</h3>
+Below are screenshots of the dataframes created within the 'main.ipynb' Jupyter Notebook script located in the PyCitySchools folder located in the main repository.
 
-Summary of All Schools in the School District
+Summary of All Schools in the School District<br>
 ![](screenshots/district_summary.png)<br/>
 
 Summary of Each School in the School District (% Overall Passing in Descending Order)
@@ -19,6 +20,22 @@ Summary of Each School in the School District (% Overall Passing in Descending O
 
 Summary of Each School in the School District (% Overall Passing in Ascending Order)
 ![](screenshots/worst_schools.png)<br/>
+
+Next, binning was used for School Size (the number of students) and Spending per Student (per student budget), resulting in the following two dataframes:<br>
+
+Dataframe with binned School Size column:<br>
+![](screenshots/binned_size.png)<br/>
+
+Dataframe with binned Spending Range column<br>
+![](screenshots/binned_spending.png)<br/>
+
+
+
+
+
+
+
+
 
 
 
