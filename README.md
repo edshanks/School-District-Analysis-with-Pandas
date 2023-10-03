@@ -1,7 +1,7 @@
 # School District Analysis with Pandas
 This project aims to analyze data from a school district's public high schools and its students in order to find correlations between a school's size, type (district or charter), and spending per student, and the performance of its students. All calculations and aggregations were performed, stored, and displayed with the Pandas module in Python.
 
-<h3>Raw Data</h3>
+<h2>Raw Data</h2>
 
 Student Data <br>
 ![](screenshots/student_data.png)<br>
@@ -9,7 +9,7 @@ Student Data <br>
 School Data <br>
 ![](screenshots/school_data.png)<br>
 
-<h3>Data Cleaning and Aggregation</h3>
+<h2>Data Cleaning and Aggregation</h2>
 Below are screenshots of the dataframes created within the 'main.ipynb' Jupyter Notebook script located in the PyCitySchools folder located in the main repository.
 
 Summary of All Schools in the School District<br>
@@ -41,7 +41,7 @@ Performance Summary Broken Down by Spending per Student<br>
 ![](screenshots/spending_summary.png)<br/>
 
 
-<h3>Analysis and Conclusions</h3>
+<h2>Analysis and Conclusions</h2>
 
 - There is a significant disparity in the overall passing rates between charter schools and district schools, with charter schools having much higher overall passing rates than district schools. The top five schools (in terms of overall passing percentage) are all charter schools, while the bottom five schools are all district schools. This disparity becomes even more apparent when the overall passing percentages of the lowest ranked charter school and that of the highest ranked district school are compared directly. The lowest ranked charter school has an overall passing percentage of 90.6%, while the highest ranked district school has an overall passing percentage of 54.6%. Furthermore, charter schools, as a whole, have an overall passing percentage of 90.4%, while district schools have an overall passing percentage of only 53.7%. This means that roughly half of the students at district schools are not able to pass, defined as maintaining at least a 70% average, both reading and math classes.<br>
 
