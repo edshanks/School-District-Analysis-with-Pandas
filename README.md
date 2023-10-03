@@ -41,19 +41,14 @@ Performance Summary Broken Down by Spending per Student<br>
 ![](screenshots/spending_summary.png)<br/>
 
 
+<h3>Analysis and Conclusions</h3>
 
+# There is a significant disparity in the overall passing rates between charter schools and district schools, with charter schools having much higher overall passing rates than district schools. The top five schools (in terms of overall passing percentage) are all charter schools, while the bottom five schools are all district schools. This disparity becomes even more apparent when the overall passing percentages of the lowest ranked charter school and that of the highest ranked district school are compared directly. The lowest ranked charter school has an overall passing percentage of 90.6%, while the highest ranked district school has an overall passing percentage of 54.6%. Furthermore, charter schools, as a whole, have an overall passing percentage of 90.4%, while district schools have an overall passing percentage of only 53.7%. This means that roughly half of the students at district schools are not able to pass, defined as maintaining at least a 70% average, both reading and math classes.<br>
 
+# The amount of money spent per student at a given school correlates negatively with said school’s overall passing percentage. Schools with a per student budget of less that $585, the lowest per student budget quartile in this analysis, outperform schools in every other budget range. Schools in the lowest budget range have an overall passing rate of 90.4%, while schools in the highest budget range have an overall passing rate of 53.5%, almost exactly mirroring the comparison of district and charter schools found in the first conclusion.<br>
 
+# Small schools (less than 1000 students) and medium-sized schools (between 1000 and 2000 students) perform much better than large schools (between 2000 and 5000 students). Small and medium-sized schools have almost identical passing math rates, passing reading rates, and overall passing rates. Large schools, however, perform worse, with an overall passing rate of only 58.3%, compared to roughly 90% for small and medium-sized schools. Large schools perform particularly poorly in math, with a passing math rate of 70% compared to 93.6% for small and medium-sized skills.<br>
 
+# School size, per student budget, and district/charter designation all correlate strongly with a school’s performance. However, pinpointing which of these three is the primary factor in a school’s performance is difficult due to the inherent limitations of the data set. For example, there is no data regarding the average class size at a given school. There is also no data regarding the socio-economic circumstances of students or that of the area surrounding each school.
 
-
-
-
-
-
-
-
-
-
-<h3>Anaysis and Conclusions</h3>
 
