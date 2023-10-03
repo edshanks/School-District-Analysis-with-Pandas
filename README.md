@@ -29,6 +29,17 @@ Dataframe with binned School Size column:<br>
 Dataframe with binned Spending Range column<br>
 ![](screenshots/binned_spending.png)<br/>
 
+With the binned data from the previous two dataframes, it's possible to aggregate the data and look for correlations between a school's size, type, and per student budget and a school's performance, i.e. the average grades of students.
+
+Performance Summary Broken Down by School Size<br>
+![](screenshots/size_summary.png)<br/>
+
+Performance Summary Broken Down by School Type<br>
+![](screenshots/type_summary.png)<br/>
+
+Performance Summary Broken Down by Spending per Student<br>
+![](screenshots/spending_summary.png)<br/>
+
 
 
 
