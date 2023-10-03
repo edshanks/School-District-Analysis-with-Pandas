@@ -10,6 +10,19 @@ School Data <br>
 ![](screenshots/school_data.png)<br>
 
 <h3>Data Cleaning and Aggregation</h3>
+Summary of All Schools in the School District
+![](screenshots/district_summary.png)<br/>
+
+Summary of Each School in the School District (in Order of % Overall Passing)
+![](screenshots/best_schools.png)<br/>
+
+Summary of Each School in the School District (% Overall Passing in Descending Order)
+![](screenshots/worst_schools.png)<br/>
+
+
+
+
+
 
 
 
